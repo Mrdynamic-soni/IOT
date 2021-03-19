@@ -14,8 +14,8 @@ variable = r.table("table_name")
 
 #inserting into database
 variable.insert({
-    'id' : ---,
-    'name' : ---,
+    'id' : ---, #your data id 
+    'name' : ---, #your data
     
 }).run(connection)
 
