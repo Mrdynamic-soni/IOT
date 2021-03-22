@@ -1,6 +1,5 @@
 #include <OneWire.h>
 #include <DallasTemperature.h>
-#include <LiquidCrystal.h>
 
 #define DS18B20 4
 
